@@ -1,0 +1,937 @@
+1001 NOITES
+https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
+
+ADESO TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+
+AGROBRASIL TV
+http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+AGROMAIS
+https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8
+
+TV AISH
+
+https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
+
+AllEGRO WEBTV
+https://livefocamundo.com:8081/allegrowebtv/index.m3u8
+
+Todos os esportes
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+
+Canal Alfa
+https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
+
+Amazon Sáb
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+Anime TV
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
+
+TV Araruna
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8
+
+Ascame TV
+https://livefocamundo.com:8081/ascametv/index.m3u8
+
+Banda
+https://evpp.mm.uol.com.br/geob_band/app/playlist.m3u8
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8
+
+Banda Minas Gerais
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8
+
+Bem TV
+http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
+
+TVM
+https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8
+
+Boas Novas
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/playlist.m3u8
+
+Boa Vontade TV
+https://ythls.armelin.one/channel/UCedt33latJW7StRfdF4-1FQ.m3u8
+
+Cabo Frio TV
+https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
+
+Canal 25 Jundiaí
+https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8
+
+Canal 38 (Brasil)
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+
+Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+
+Canal do Inter
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+
+Canal Educação
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+
+Canal FDR
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+
+Canal Gov
+https://canalgov-stream.ebc.com.br/index.m3u8
+
+Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+
+Canal Metropolitano de Notícias
+https://video01.logicahost.com.br/redebemtv/redebemtv/playlist.m3u8
+
+Canal Ricos
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+
+Canal Rural (Brasil)
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+
+Canal Saude
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
+
+Canal Sete
+http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
+
+Canal TV Rio
+https://video01.logicahost.com.br/canaltvrio/canaltvrio/playlist.m3u8
+
+Catve2
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+
+Rádio Catve FM
+https://5b33b873179a2.streamlock.net:1443/radiocamera/livestream/playlist.m3u8
+
+Catve Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+
+CazeTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+
+Central TV (Brazil)
+https://tv02.zas.media:1936/centraltv/centraltv/playlist.m3u8
+
+TV Chroma
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
+
+Classique TV (Brazil)
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
+TV Clássica 2
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
+
+Clássico TV Western
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8
+
+Combate
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+COM Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
+
+Conecta Mais TV
+http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
+
+ConecTV Brasil
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+Conexão TV
+https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
+
+Cultura Para
+http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+
+TV CWB
+https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
+
+Demais TV
+https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
+
+Dunas TV
+https://5cf4a2c2512a2.streamlock.net/dunastv/dunastv/playlist.m3u8
+
+Canal Elemental
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+
+ElyTV
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8
+
+EUTV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+
+Fala Litoral
+https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
+
+Filmes Suspense
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Fonte TV
+http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
+
+Fora Tedio TV
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8
+
+Geekdot
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+
+TV fantasma
+https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8
+
+Desenho animado do Evangelho
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+TV de filmes gospel
+https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
+
+IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+ISTV (Brazil)
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8
+
+J3NEWS TV
+https://cdn.jmvstream.com/w/LVW-8529/LVW8529_S8HhwGeAQU/chunklist.m3u8
+
+Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+https://amg01391-addigital-jovempan-klowdtv-cpe4b.amagi.tv/playlist/amg01391-addigital-jovempan-klowdtv/playlist.m3u8
+
+KpopTV Play
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+
+Carregando
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+Lavras CE TV
+https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
+
+Mestre Show TV
+https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+
+MKK Web TV
+https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
+
+MTV (Brasil)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+MyTime Movie Network (Brazil)
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
+
+Nature TV
+https://stmv1.srvif.com/nattv/nattv/playlist.m3u8
+
+NDTV Record TV Criciúma
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+Nick Clássico
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f12151794c1800007a8ae63&deviceLat=-23.5475&deviceLon=-46.6361&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false&sid=730&terminate=false&userId=
+
+Clube Nick Jr.
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+
+Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+NTV (Brazil)
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
+
+Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+
+TV OESC
+https://stmv1.samcast.com.br/gustavo8536/gustavo8536/playlist.m3u8
+
+Opinião Play TV
+https://livefocamundo.com:8081/opiniaoplay/index.m3u8
+
+Canal do Peru
+https://a.cdni.live/peruchanel/peruchanel/playlist.m3u8
+
+Play TV (Brazil)
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
+
+Plena TV
+https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+
+Pluto TV Cine Drama (Brazil)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Pluto TV Cinema Família
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Pluto TV Investigação
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Pluto TV Mistérios
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+
+Pluto TV Natureza
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Plutão TV Retro
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Pluto TV Vida Real
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c7449/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+Primer TV
+http://200.194.238.229:8383/live/primer/playlist.m3u8
+
+RBATV
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+RBTV (Brazil)
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/playlist.m3u8
+
+TV RDC
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+
+Registro
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
+
+Notícias recordes
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2116
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8
+
+Record RS
+https://playpluspoa-lh.akamaihd.net/i/pp_poa@377864/index_720_av-p.m3u8
+
+RecordTV Belém
+https://playpluspa-lh.akamaihd.net/i/pp_pa@377468/index_720_av-p.m3u8
+
+RecordTV Brasília
+https://playplusbsa-lh.akamaihd.net/i/pp_bsa@377860/index_720_av-p.m3u8
+
+RecordTV Goiás
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
+
+RecordTV Itapoan
+https://playplussdr-lh.akamaihd.net/i/pp_sdr@377858/index_720_av-b.m3u8
+
+RecordTV Minas
+https://playplusbh-lh.akamaihd.net/i/pp_bh@377862/index_720_av-p.m3u8
+
+RecordTV Rio
+https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/index_720_av-p.m3u8
+
+RecordTV São Paulo
+https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8
+
+Rede Brasil
+https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/.m3u8
+
+Rede Brasil de Comunicação
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+
+Rede Caxias
+https://stmv1.srvstm.com/luis5346/luis5346/playlist.m3u8
+
+Rede Familia
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8
+
+Rede Internacional de TV
+https://ythls.armelin.one/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8
+
+Rede Mais
+https://5a0c3936c25c8.streamlock.net/8010/8010/playlist.m3u8
+
+Rede Massa
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
+Rede Meio Norte
+http://streaming.jornalmn.com.br/live/tvmn.m3u8
+
+Rede Metrópole
+https://acesso.ecast.site:3456/hybrid/play.m3u8
+
+Rede Minas
+https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8
+
+Rede Mundo TV
+https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/playlist.m3u8
+
+Rede NGT
+https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+Rede Premium TV
+https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8
+
+Rede QDM
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8
+
+Rede RC
+http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
+
+Rede Século 21
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+
+Rede SPTV
+https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+
+Rede Sul
+https://video05.logicahost.com.br/tvurbana/tvurbana/playlist.m3u8
+
+Rede TV!
+https://hls.brasilstream.com.br/live/redetv/redetv/playlist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+Rede TV! ES
+https://redetves1.brasilstream.com.br/hls/redetves1/index.m3u8
+
+Rede TV! Mais
+https://stmv7.samcast.com.br/playredetvmais/playredetvmais/playlist.m3u8
+
+RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/redetvro/playlist.m3u8
+
+Rede UTV
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual08/_definst_/canalvirtual08/playlist.m3u8
+
+Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+
+Rede Web TV
+https://serv3.videovox.pw/alexandre8915/alexandre8915/playlist.m3u8
+
+Desenho animado retrô
+https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
+
+Rio TV Camara
+https://ythls.armelin.one/channel/UCmkgkpuRbUGzwLSpnV2nevQ.m3u8
+
+TV Santa Cecília
+http://flash1.crossdigital.com.br/2063/2063/playlist.m3u8
+
+SBT Cuiabá
+https://5ad482a77183d.streamlock.net/sbtsbtmt.com/sbtsbtmt.com/playlist.m3u8
+
+SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+SBT Para
+https://streaming.portaltvparaense.com.br/hls/rtp.m3u8
+
+SBT Rio
+https://ythls.armelin.one/channel/UCsRfBAspa72ExrsN347W2xg.m3u8
+
+SBT Rio Grande
+https://ythls.armelin.one/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8
+
+Sertao TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+
+SESC TV
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/93a9920d-1b24-4c5e-a7d2-63d5489f59b5_index.m3u8
+
+SIC TV
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+
+SOU TV
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+
+SRTV PB
+https://livefocamundo.com:8081/srtvpb/index.m3u8
+
+TV STZ
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
+
+Tastemade Brasil
+https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8
+
+TCM 10 HD
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
+
+Tela Viva
+https://srv4.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
+
+Terra Viva
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+
+TV A7 Plus
+https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+
+TV Aberta
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
+
+TV A Crítica
+https://ythls.armelin.one/channel/UCnLSKfHkgZ6ujEYCO9jq7Sw.m3u8
+
+TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
+
+TV Alagonet
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8
+
+TV Aldeia
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+
+TV Aliança Catarinense
+https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
+
+TV ALMG
+https://ythls.armelin.one/channel/UCLyH0n2yMR9mmkYvXkwJTTw.m3u8
+
+TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
+
+TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+TV Aracati
+https://livefocamundo.com:8081/tvaracati/index.m3u8
+
+TV Arapuã
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+
+TV Aratu
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+
+TV Assembleia Ceara
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+
+TV Assembleia Mato Grosso
+https://streaming.al.mt.gov.br/test/index.m3u8
+
+TV Assembleia Piaui
+https://59e4b6c1beddc.streamlock.net/ronaldoalepi/ronaldoalepi/playlist.m3u8
+
+TVBE Joinville
+https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
+
+TV Beltrão
+https://5cf4a2c2512a2.streamlock.net/tvbeltrao/tvbeltrao/playlist.m3u8
+
+TV Birigui
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+
+TV Boqueirao
+https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
+
+TV Brasil Central
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+
+TV Brasil Oeste
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+
+TV BRICS Português
+https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
+
+TV Brusque
+https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
+
+TV Camara (Brazil)
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+
+TV Câmara 2
+https://stream3.camara.gov.br/tv2/manifest.m3u8
+
+TV Câmara de São Paulo
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8
+
+TV Câmara Porto Alegre
+https://ythls.armelin.one/channel/UC-0IsdHsbWQcZolu66jkQZQ.m3u8
+
+TV Câmara Salvador
+https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
+
+TV Cândidos
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/chunklist.m3u8
+https://cdn.jmvstream.com/w/LVW-8067/ngrp:LVW8067_ZffQjxn7UC_all/playlist.m3u8
+
+TV Caravelas
+https://59f1cbe63db89.streamlock.net:1443/tvcaravelas/_definst_/tvcaravelas/playlist.m3u8
+
+TV Carioca
+https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/playlist.m3u8
+
+TV Ceara
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8
+
+TV Cidada Alagoas
+https://livefocamundo.com:8081/tvcidada/index.m3u8
+
+TV Cidade Canal 9
+https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
+
+TV Cidade de Petrópolis
+https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
+
+TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
+
+TV Cinema
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+
+TV Clube
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+
+TV CN Agitos
+https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
+
+TVCOM Maceió
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+TV COM Santos
+https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
+
+TV Comunitaria
+https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
+
+TV Cordeiro
+https://stmv2.voxtvhd.com.br/tvcordeiro/tvcordeiro/playlist.m3u8
+
+TV Correio
+https://ythls.armelin.one/channel/UCJ4uxK_mo6gNoqk9cyvgWkw.m3u8
+
+TVC-Rio
+https://video01.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
+
+TV Curuca
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
+
+TV das Artes
+http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
+
+TV Destak
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
+https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
+
+TV Diário do Sertão
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
+
+TV Diário Macapá
+https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmail.com/playlist.m3u8
+
+TV Difusora Leste
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
+
+TV Difusora São Luis
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8
+
+TV Digital Birigui
+http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
+
+TV Diversas
+https://tvdiversa.brasilstream.com.br/hls/tvdiversa/index.m3u8
+
+TV do Povo
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+
+TVE Bahia
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+
+Império da TV
+https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
+
+TVE RS
+https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
+
+TV Evangelizar
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+TV Futuro
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
+
+TV Galega Blumenau
+https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8
+
+TV Gazeta
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8
+
+TV Gerais
+https://video01.kshost.com.br:4443/humberto3322/humberto3322/playlist.m3u8
+
+TV Gideões
+https://streaming01.zas.media/gideoes/programacao/playlist.m3u8
+
+TV Gramado
+https://video01.kshost.com.br:4443/tv4477/tv4477/playlist.m3u8
+
+TV Grande Natal
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
+
+TV Grão Pará
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+
+TV Guara
+https://video02.logicahost.com.br/tvguara23/tvguara23/playlist.m3u8
+
+TV Guarapari
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/playlist.m3u8
+
+TVideoNotícias
+https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
+
+TV InforBahia
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist.m3u8
+
+TV Interlagos
+https://v8.ciclano.io:1443/tvinterlagos/_definst_/tvinterlagos/playlist.m3u8
+
+TV Iracema
+https://stmv1.srvstm.com/iracematv/iracematv/playlist.m3u8
+
+Fita de TV
+https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
+
+TV Japonesa
+https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
+
+TV Jornal Caruaru
+https://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8
+
+TV Jornal do Nordeste
+https://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
+
+TV J.SID
+https://livefocamundo.com:8081/tvjsid/index.m3u8
+
+TV Justiça
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8
+
+TV La Verdad
+https://ythls.armelin.one/channel/UCS5n5q3lJBXom3wVbOiUl9Q.m3u8
+
+TV Liberdade
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+
+TV Maceió
+https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
+
+TV Mackenzie
+https://player.internetaovivo.com:8443/live_tvmackenzieabr/tvmackenzieabr/playlist.m3u8
+
+TV Mais Brasil
+http://sevensp.homelinux.com/live/index.m3u8
+
+TV Mais Marica
+https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
+
+TV Marajoara
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8
+
+Mestre da TV
+https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
+
+Comédia TVMatic
+http://cdn.tvmatic.net/comedy.m3u8
+
+Artesanato TVMatic
+http://cdn.tvmatic.net/crafts.m3u8
+
+TVMatic Facebook
+http://cdn.tvmatic.net/facebook.m3u8
+
+Luta TVMatic
+http://cdn.tvmatic.net/fight.m3u8
+
+TVMatic Engraçado
+http://cdn.tvmatic.net/funny.m3u8
+
+TVMatic TikTok
+http://cdn.tvmatic.net/tiktok.m3u8
+
+TV MÁXIMA
+https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
+
+TV Metrópole
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
+
+TV Seg
+https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
+
+TV Mundo Maior
+https://ythls.armelin.one/channel/UC5-IOBnk-mFdQgKS-niajYg.m3u8
+
+TVNBN
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
+
+TVN Brasil
+http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+http://wz3.dnip.com.br/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
+
+TV Nova Play
+https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8
+
+TV Omindare
+https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
+
+TV Osório Notícias
+https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
+
+TV Padre Cícero
+https://video01.logicahost.com.br/tvpadrecicero/tvpadrecicero/playlist.m3u8
+
+TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
+
+TV Pampa
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/tvpampa/playlist.m3u8
+
+TV Pampa Norte
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+
+TV Pantanal MS
+https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+
+TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+
+TV Passo Fundo
+https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
+
+Plano de TV
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
+
+TV Planalto Norte
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8
+
+TV Pocos
+http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
+
+TV Ponta do Seixas
+https://livefocamundo.com:8081/tvpontadoseixascanal9/index.m3u8
+
+TV Precabura
+http://srv1.zcast.com.br/tvprecabura/tvprecabura/playlist-480p.m3u8
+
+TV Rio Grande
+https://stmv1.srvif.com/tvriogrande/tvriogrande/playlist.m3u8
+
+TV Rio Preto
+https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
+
+TV Sandegi
+https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
+
+TV São Raimundo
+https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
+
+TV Senado (Brasil)
+https://ythls.armelin.one/channel/UCLgti7NuK0RuW9wty-fxPjQ.m3u8
+
+Série de TV
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8
+https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8
+https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8
+
+TV Serra Dourada
+https://ythls.armelin.one/channel/UCuODGS_c39psNvI8f3bYN_g.m3u8
+
+TV Sete Lagoas
+https://livefocamundo.com:8081/tvsetelagoas/index.m3u8
+
+TV Sim Cachoeiro
+https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
+
+TV Sim Colatina
+https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
+
+TV Sim São Mateus
+https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
+
+TV Sol Comunidade
+http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
+
+TV Sul Bahia
+https://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8
+
+TV Sul de Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
+
+TV Terceiro Anjo
+https://streamer1.streamhost.org/salive/GMI3anjoh/playlist.m3u8
+
+TV Thathi
+https://cdn-grupo-10049.ciclano.io:1443/grupo-10049/grupo-10049/playlist.m3u8
+
+TV Tropical
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+TV Tudo BH
+https://tv02.zas.media:1936/tvtudo/tvtudo/playlist.m3u8
+
+TV UFG
+http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8
+
+TV União Fortaleza
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8
+
+TV Universal
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+TV Vale do Uruará
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
+
+TV Vicosa
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
+
+TV Vila Real
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
+
+TV Web Camocim
+https://5c483b9d1019c.streamlock.net/8172/8172/playlist.m3u8
+
+TV Web Paraná
+https://59f1cbe63db89.streamlock.net:1443/tvwebparana/_definst_/tvwebparana/playlist.m3u8
+
+TV WTJMINAS
+https://video01.kshost.com.br/wladimir4773/wladimir4773/playlist.m3u8
+
+TV Zoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+
+UniTV Porto Alegre
+http://unitvaovivo.ufrgs.br:8080/live.ogg
+
+Urban TV (Brazil)
+https://video01.logicahost.com.br/urbantvlive/urbantvlive/playlist.m3u8
+
+TV virtual
+https://59f1cbe63db89.streamlock.net:1443/mundotv2/_definst_/mundotv2/playlist.m3u8
+
+Canal VRT
+https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
+
+VTV (Brasil)
+https://ythls.armelin.one/channel/UC40TUSUx490U5uR1lZt3Ajg.m3u8
+
+VV8 TV
+https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
+
+Web TV Água Boa
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+
+WTV Brasil
+https://stmv1.srvstm.com/wtvbrasil/wtvbrasil/playlist.m3u8
+
+
+
+
+
+
+
+
